@@ -11,7 +11,8 @@ The pipeline includes data loading, augmentation (using `albumentations`), and r
 
 The segmentation network employs a **U-Net** structure, heavily relying on a pre-trained **ResNet-50** encoder to extract dense spatial features from satellite images.
 
-![Architecture Workflow](C:\Users\Admin\.gemini\antigravity-ide\brain\ee4199e2-316d-431f-be1c-95878bd6d8d3\geospatial_unet_workflow_1784094312538.png)
+<img width="1024" height="1024" alt="WhatsApp Image 2026-07-15 at 11 17 28 AM" src="https://github.com/user-attachments/assets/06c0d107-3d98-4fa9-aa21-a64973de2dbd" />
+
 
 ```mermaid
 graph TD
